@@ -1,0 +1,5 @@
+EXPORTS
+Java_pulkit_WinRegKeyName_hasMoreElements
+Java_pulkit_WinRegKeyName_nextElement
+Java_pulkit_SystemInfo_getValue
+Java_pulkit_SystemInfo_setValue
